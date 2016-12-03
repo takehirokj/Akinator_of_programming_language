@@ -1,9 +1,8 @@
 # Akinator_of_programming_language
-====
-
 Terminal application to guess the programming language you think.<br>
-Programming language version of Akinator (http://en.akinator.com/).
-
+Programming language version of Akinator (http://en.akinator.com/).<br>
+<br>
+![](https://github.com/takehirokj/Akinator_of_programming_language/raw/master/demo_jp.gif)
 ## Description
 
 1. Think some programming language in your head.
@@ -12,11 +11,6 @@ Programming language version of Akinator (http://en.akinator.com/).
 
 Only Japanese version is provided now.<br>
 But English verion also will be provided soon.
-
-<!--
-## Demo
-gif of using the app will be inserterd
--->
 
 ## Requirement
 
