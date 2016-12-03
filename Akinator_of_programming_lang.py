@@ -8,7 +8,6 @@ Guess Programming Languages in your head
 import pandas as pd
 import time
 
-#import graphviz
 from sklearn import tree
 
 #dot fileで指定したnodeがN回目に出た行を返す
@@ -104,6 +103,7 @@ variables = ['webDevUse'
             , 'bornBefore1990']
 
 classifier = tree.DecisionTreeClassifier()
+
 #サンプルデータを与える。目的変数
 classifier = classifier.fit(data[variables], data['Language'])
 
