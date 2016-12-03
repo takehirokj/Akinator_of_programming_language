@@ -23,7 +23,7 @@ Download each files and run Akinator_of_programming_lang.py in your terminal.
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+MIT
 
 ## Author
 
